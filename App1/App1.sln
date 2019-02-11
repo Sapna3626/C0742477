@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "App1", "App1\App1.jsproj", "{08EEF0B6-2599-467D-856F-DC2776AFDB6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08EEF0B6-2599-467D-856F-DC2776AFDB6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08EEF0B6-2599-467D-856F-DC2776AFDB6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08EEF0B6-2599-467D-856F-DC2776AFDB6C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{08EEF0B6-2599-467D-856F-DC2776AFDB6C}.Debug|ARM.ActiveCfg = Debug|ARM
+		{08EEF0B6-2599-467D-856F-DC2776AFDB6C}.Debug|ARM.Build.0 = Debug|ARM
+		{08EEF0B6-2599-467D-856F-DC2776AFDB6C}.Debug|ARM.Deploy.0 = Debug|ARM
+		{08EEF0B6-2599-467D-856F-DC2776AFDB6C}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{08EEF0B6-2599-467D-856F-DC2776AFDB6C}.Debug|ARM64.Build.0 = Debug|ARM64
+		{08EEF0B6-2599-467D-856F-DC2776AFDB6C}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{08EEF0B6-2599-467D-856F-DC2776AFDB6C}.Debug|x64.ActiveCfg = Debug|x64
+		{08EEF0B6-2599-467D-856F-DC2776AFDB6C}.Debug|x64.Build.0 = Debug|x64
+		{08EEF0B6-2599-467D-856F-DC2776AFDB6C}.Debug|x64.Deploy.0 = Debug|x64
+		{08EEF0B6-2599-467D-856F-DC2776AFDB6C}.Debug|x86.ActiveCfg = Debug|x86
+		{08EEF0B6-2599-467D-856F-DC2776AFDB6C}.Debug|x86.Build.0 = Debug|x86
+		{08EEF0B6-2599-467D-856F-DC2776AFDB6C}.Debug|x86.Deploy.0 = Debug|x86
+		{08EEF0B6-2599-467D-856F-DC2776AFDB6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08EEF0B6-2599-467D-856F-DC2776AFDB6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08EEF0B6-2599-467D-856F-DC2776AFDB6C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{08EEF0B6-2599-467D-856F-DC2776AFDB6C}.Release|ARM.ActiveCfg = Release|ARM
+		{08EEF0B6-2599-467D-856F-DC2776AFDB6C}.Release|ARM.Build.0 = Release|ARM
+		{08EEF0B6-2599-467D-856F-DC2776AFDB6C}.Release|ARM.Deploy.0 = Release|ARM
+		{08EEF0B6-2599-467D-856F-DC2776AFDB6C}.Release|ARM64.ActiveCfg = Release|ARM64
+		{08EEF0B6-2599-467D-856F-DC2776AFDB6C}.Release|ARM64.Build.0 = Release|ARM64
+		{08EEF0B6-2599-467D-856F-DC2776AFDB6C}.Release|ARM64.Deploy.0 = Release|ARM64
+		{08EEF0B6-2599-467D-856F-DC2776AFDB6C}.Release|x64.ActiveCfg = Release|x64
+		{08EEF0B6-2599-467D-856F-DC2776AFDB6C}.Release|x64.Build.0 = Release|x64
+		{08EEF0B6-2599-467D-856F-DC2776AFDB6C}.Release|x64.Deploy.0 = Release|x64
+		{08EEF0B6-2599-467D-856F-DC2776AFDB6C}.Release|x86.ActiveCfg = Release|x86
+		{08EEF0B6-2599-467D-856F-DC2776AFDB6C}.Release|x86.Build.0 = Release|x86
+		{08EEF0B6-2599-467D-856F-DC2776AFDB6C}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C16C6F41-9AF9-4BBA-8F13-A366C15EBB4E}
+	EndGlobalSection
+EndGlobal
